@@ -42,4 +42,4 @@ jobs:
           platforms: linux/arm64
           push: true
           tags: |
-            ghcr.io/mikolajkolek/images:java-${{ matrix.tag }}-arm64
+            ghcr.io/velikoss/images:java-${{ matrix.tag }}-arm64
